@@ -12,6 +12,7 @@ class App extends Component {
         <Header />
         <LandingPage />
         <PostForm />
+        <hr />
         <Posts />
       </div>
     );
