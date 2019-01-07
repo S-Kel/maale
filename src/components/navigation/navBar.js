@@ -1,6 +1,6 @@
 import React from "react";
 
-function header() {
+function navBar() {
   return (
     <nav>
       <div className="nav-wrapper blue-grey darken-4">
@@ -24,4 +24,4 @@ function header() {
   );
 }
 
-export default header;
+export default navBar;
