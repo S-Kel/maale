@@ -29,15 +29,17 @@ class Landing extends Component {
         <div className="container">
           <br />
           <br />
-          <h1 class="header center teal-text text-lighten-2">Latest Plugins</h1>
-          <div class="row center">
-            <h5 class="header col s12 light">Innovative and elegant</h5>
+          <h1 className="header center teal-text text-lighten-2">
+            Latest Plugins
+          </h1>
+          <div className="row center">
+            <h5 className="header col s12 light">Innovative and elegant</h5>
           </div>
-          <div class="row center">
+          <div className="row center">
             <a
               href="http://materializecss.com/getting-started.html"
               id="download-button"
-              class="btn-large waves-effect waves-light teal lighten-1"
+              className="btn-large waves-effect waves-light teal lighten-1"
             >
               Get Started
             </a>
